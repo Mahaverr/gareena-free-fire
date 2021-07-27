@@ -1,0 +1,245 @@
+{
+  "project_info": {
+    "project_number": "185753624591",
+    "firebase_url": "https://free-fire-8cd39.firebaseio.com",
+    "project_id": "free-fire-8cd39",
+    "storage_bucket": "free-fire-8cd39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185753624591:android:b5de3850f697ca2a38437a",
+        "android_client_info": {
+          "package_name": "com.dts.freefireadv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185753624591-pif8bds1kuk15mgn7br7npu2cqbpbfp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dts.freefireadv",
+            "certificate_hash": "5b320be50be7e5d01e5608b666432be0a9449794"
+          }
+        },
+        {
+          "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtWGv23Hfc7fmRBOgO6GVV2xn079_-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185753624591-kgmooqift6qg4cisd4aoni2q3savuo3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dts.freefiremax",
+                "app_store_id": "1480516829"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185753624591:android:1b330ee0081fa76138437a",
+        "android_client_info": {
+          "package_name": "com.dts.freefiremax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185753624591-kmnb3fbqp7upje6knl26q782a5pg6i0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dts.freefiremax",
+            "certificate_hash": "5b320be50be7e5d01e5608b666432be0a9449794"
+          }
+        },
+        {
+          "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtWGv23Hfc7fmRBOgO6GVV2xn079_-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185753624591-kgmooqift6qg4cisd4aoni2q3savuo3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dts.freefiremax",
+                "app_store_id": "1480516829"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185753624591:android:7c2a8f3616fda866",
+        "android_client_info": {
+          "package_name": "com.dts.freefireth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185753624591-7jr00d7grt874kdngt8490hc30saanla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dts.freefireth",
+            "certificate_hash": "5b320be50be7e5d01e5608b666432be0a9449794"
+          }
+        },
+        {
+          "client_id": "185753624591-6njui4ut2t0k0e8sd5lg0ib45iu523lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dts.freefireth",
+            "certificate_hash": "296a2d810a3e0024d90f4ca377afef1ba6406b93"
+          }
+        },
+        {
+          "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtWGv23Hfc7fmRBOgO6GVV2xn079_-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185753624591-kgmooqift6qg4cisd4aoni2q3savuo3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dts.freefiremax",
+                "app_store_id": "1480516829"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4544079876150612~1336451727"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185753624591:android:159e76c5cb8586fe",
+        "android_client_info": {
+          "package_name": "com.dts.freefireth.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185753624591-r0ocg755h6q6e24uabqsfpa43aq1ut4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dts.freefireth.huawei",
+            "certificate_hash": "5b320be50be7e5d01e5608b666432be0a9449794"
+          }
+        },
+        {
+          "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtWGv23Hfc7fmRBOgO6GVV2xn079_-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185753624591-kgmooqift6qg4cisd4aoni2q3savuo3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dts.freefiremax",
+                "app_store_id": "1480516829"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185753624591:android:aaeaeddedcc7bab938437a",
+        "android_client_info": {
+          "package_name": "com.dts.freefireth.samsung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185753624591-uavl56vk7f7ep2cudd1je4lh83orj2hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dts.freefireth.samsung",
+            "certificate_hash": "5b320be50be7e5d01e5608b666432be0a9449794"
+          }
+        },
+        {
+          "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtWGv23Hfc7fmRBOgO6GVV2xn079_-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185753624591-3sg2arfuus5i1anc2jcfarepnf6cdlaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185753624591-kgmooqift6qg4cisd4aoni2q3savuo3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dts.freefiremax",
+                "app_store_id": "1480516829"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
